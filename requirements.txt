@@ -1,0 +1,5 @@
+mesa
+jupyter
+pandas
+hvplot
+pyyaml
